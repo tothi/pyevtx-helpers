@@ -9,7 +9,7 @@ Using pyevtx from the [libevtx](https://github.com/libyal/libevtx) project.
 
 ## Tools
 
-* [evtx_parse_rdpclient.py]([evtx_parse_rdpclient.py): parse
+* [evtx_parse_rdpclient.py](evtx_parse_rdpclient.py): parse
 Microsoft-Windows-TerminalServices-RDPClient/Operational for
 outgoing RDP connections
 
