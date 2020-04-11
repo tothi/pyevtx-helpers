@@ -11,8 +11,9 @@ Using pyevtx from the [libevtx](https://github.com/libyal/libevtx) project.
 
 * [evtx_parse_rdpclient.py](evtx_parse_rdpclient.py): parse
 Microsoft-Windows-TerminalServices-RDPClient/Operational for
-outgoing RDP connections
+outgoing RDP connections. Supports base64 encoded hashed
+username resolution.
 
 * [evtx_parse_security.py](evtx_parse_security.py): parse
-Security log for (important) incoming logon activity
+Security log for (important) incoming logon activity.
 
